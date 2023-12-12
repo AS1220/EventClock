@@ -2,8 +2,7 @@
 
 EventClockはiOS搭載カレンダーと連携し、予定を同期させることができるアプリケーションです。
 
-![EventClock Screenshot](![IMG_2631](https://github.com/AS1220/EventClock/assets/108235075/b33c891c-e033-4b3f-8f46-6c161c5be052)
-)
+![EventClock Screenshot](image/IMG_2631.PNG)
 
 ## 対応機種
 
